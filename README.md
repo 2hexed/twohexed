@@ -11,7 +11,7 @@
 @@ ♱ @@
 ```
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l6871vs6zyzjl45ctubllclc9&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=l6871vs6zyzjl45ctubllclc9&redirect=true)
+  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=twohexed)](https://www.last.fm/user/twohexed)
 
   ```diff
 @@ 𓋹 @@
